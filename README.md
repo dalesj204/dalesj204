@@ -6,7 +6,7 @@
 
 - 📫 Email: **jdales20.jd@gmail.com**
 
-- ⚡ Fun fact **Really interested in music production and photography :)**
+- ⚡ Fun fact: **Really interested in music production and photography :)**
 
 <p align="left">
 </p>
