@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning **C/C++, Digital/Hardware Design**
 
-- 📫 Email: **jdales20.jd@gmail.com**
+- 📫 Email: **dalesjr@clarkson.edu**
 
 - ⚡ Fun fact: **Really interested in music production and photography :)**
 
