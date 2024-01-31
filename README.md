@@ -1,10 +1,10 @@
-<h1 align="center">Hey! 👋 I'm Jordan! 😁</h1>
+<h1 align="center">Hi! 👋 I'm Jordan! 😁</h1>
 <h3 align="center">Software Engineering Student at Clarkson University</h3>
 <p align="left">I am enrolled in the 3-2 Engineering Program with SUNY Potsdam (Computer Science, Math, Music Business) and Clarkson University (Software Engineering). I have been coding since high school and have taken courses such as Algorithms, Networks, Operating Systems, Theory of Computation, Software Engineering, and Cryptography (my fav). Currently catching up on some lower-level courses, but I am hoping to learn more about software engineering and the fundamentals of hardware/digital design in the near future!</p>
   
 - 🌱 I’m currently learning **C/C++, Digital/Hardware Design**
 
-- 📫 Email: **dalesjr@clarkson.edu**
+- 📫 Email: **dalesjr@clarkson.edu | jdales20.jd@gmail.com**
 
 - ⚡ Fun fact: **Really interested in music production and photography :)**
 
