@@ -6,6 +6,8 @@
 
 - 📫 Email: **dalesjr@clarkson.edu | jdales20.jd@gmail.com**
 
+- 📥 LinkedIn: **[Jordan Dales](https://www.linkedin.com/in/jordan-dales-5958592b1/)**
+
 - ⚡ Fun fact: **Really interested in music production and photography :)**
 
 <p align="left">
